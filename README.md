@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with **More learning resources**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: You can just try
-- ⚡ Fun fact: **I am very handsome and helpful**
+- ⚡ Fun fact: **I am very helpful**
 -->
 ## Statistics Card
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MossDream&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  
